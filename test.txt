@@ -1,0 +1,81 @@
+This is shuvo dabnath.
+i am 25 years old.
+i am studying at Bsc in CSE.
+i love travel in different countries.
+
+ git config --list [check ki ki add kora ache].
+ git config --global user.name "git je user name ache" [user name add].
+ git config --global user.email "git er email" [user email add].
+ git config user.name [name dekha].
+ gitconfig user.email [email dekha].
+ git folder/(working directory).
+  
+  Git folder (Changing Control)
+ -> folder ke kivabe git folder make korte pari.
+    -command :- git init
+
+    Stagging Area
+ -> kono file git add korte hole 
+   -command :- git add (file name)
+
+ -> file new kichu likhar por dekhte hole or file kono kichu change kora hola kina 
+   - command :- git status
+
+ -> file ki add korechen dekhte chaile 
+   - command :- git diff
+
+ 
+ -> git file kono kichu delete restore korte hole
+
+    - command :- git restore file name
+
+ Local Repository(Version Control)
+
+-> Stagging area theke Local Repository nea jete chaile
+    - command :- git commit -m (message)
+
+-> commit history dekhar jonno
+   -command :- git log / git log --oneline
+
+-> akta commit theke arekta commit a jete chaile 
+   - command :- git checkout commit id
+
+-> ager jaigai fire jete chaile
+  - command :- git check branch name 
+
+Remote Repository
+
+-> git r sathe github er link korte chaile
+    - command :- git remote add origin (Url Address / link)
+-> Link hoyeche kina dekhte chaile
+    - command :- git origin /git origin -v
+-> Local Repository Theke remote Repository (Github) jete chaile
+  - command :- git push
+
+
+
+
+
+  project er secret information github a nah dekhite chaile
+   .gitignore file create korte hobe then sekhane je file ta dekhate chan nah oi file ta name dite hobe
+   folder er khetre folder name/ use korte hobe
+
+ MarkDown file create korte hole (README.md)
+
+ # heading 1
+ ## heading 2
+
+ normal text ke bold text korte hole 
+ **Example**
+ italic text korte gele
+ _example_
+ 
+Unorder list korte chaile
+ -Name 
+
+image use korte gele
+![alternative name](folder name / file name)
+
+
+ 
+ 
