@@ -77,5 +77,43 @@ image use korte gele
 ![alternative name](folder name / file name)
 
 
+ - Another Day Learning -
+Remote Repository /Github theke  Local Repository nia aste chaile
+-> command :- git pull 
+
+Branch check korte gele
+ -> command  :- git branch
+
+Branch creat korte gele
+ -> command:- git branch name
+
+Main branch theke another branch shift korte gele 
+ -> command :- git cheakout branch name (je branch a shift korte cai)
+ branch kaj sesh hole add commit must korte hobe.
+
+ Onno branch Theke main branch nia jete chaile ofcourse main branch jete hobe.
+  command:- git checkout branch name then 
+
+ kon branch theke main branch nite chai 
+  - command:- git marge [duplicate] branch name 
+
+ Merge korar somoy conflict issues aste pare.
+
+ Branching advantage holo differnt person different jinish kaj parbe.
+ Alada branch advantage parallel development kora jai.
+
+Working flow(Branching -> Marge)
+1. git branch name (new branch create)
+2. git checkout branch name (je new branch create korechi oita te shift korte hobe)
+3.add,commit 
+4.git checkout main branch name (main branch a aste hobe)
+5.git merge duplicate branch name (je new  branch create korehi oitar sathe).
+
+git branch branch name
+git checkout branch name
+shortcut way : git checkout -b branch name
+
+3 -way marge:
+
  
  
