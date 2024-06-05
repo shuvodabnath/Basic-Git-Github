@@ -48,7 +48,7 @@ Remote Repository
 -> git r sathe github er link korte chaile
     - command :- git remote add origin (Url Address / link)
 -> Link hoyeche kina dekhte chaile
-    - command :- git origin /git origin -v
+    - command :- git remote /git remote -v
 -> Local Repository Theke remote Repository (Github) jete chaile
   - command :- git push
 
@@ -114,6 +114,4 @@ git checkout branch name
 shortcut way : git checkout -b branch name
 
 3 -way marge:
-
- 
  
